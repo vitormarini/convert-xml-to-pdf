@@ -1,5 +1,5 @@
 {
-    "name": "vitor/convertxml",
+    "name": "vitormarini/convertxml",
     "type": "library",
     "description": "Biblioteca de Conversão de XMl para PDF, DF-e Mod 55",
     "keywords": ["nfse", "dfe", "xml", "convertion", "55", "nfe", "vitormarini"],
