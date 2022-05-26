@@ -27,14 +27,14 @@ Caso queiram compartilhar, esse projeto tem como intenção desenvolver um Front
 
 Adicione este pacote com o composer, por linha de comando:
 ```
-composer require vitormarini/convertXMLtoPDF
+composer require vitormarini/convertxml
 ```
 
 Ou adicione ao seu composer.json:
 ```
 {
     "require": {
-    	"vitormarini/sconvertXMLtoPDF": "^0.1"
+    	"vitormarini/convertxml": "^0.1"
     }
 }
 
